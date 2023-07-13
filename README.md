@@ -1,5 +1,5 @@
 # URdata-DepthmapX
-Fast installatio of DepthmapX in Classroom with 20 Linux Computers
+Fast installation of DepthmapX in Classroom with 20 Linux Computers
 
 For remote access I installed ssh service on all computers.
 
