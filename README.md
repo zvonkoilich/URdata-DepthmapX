@@ -1,5 +1,6 @@
 # URdata-DepthmapX
-Fast installation of DepthmapX(https://github.com/SpaceGroupUCL/depthmapX/blob/master/docs/about.md) in Classroom with 20 Linux Computers.
+Fast installation of DepthmapX(https://github.com/SpaceGroupUCL/depthmapX/blob/master/docs/about.md) in Classroom with 20 Linux Computers. 
+Working under pressure.
 
 cat /etc/os-release
 
@@ -24,6 +25,9 @@ tar xfav wol.tgz
 sudo ./installwoll.sh
 
 
+Tar archive (installZI-p.tar) content:
+
+![alt text](https://github.com/zvonkoilich/URdata-DepthmapX/blob/main/depthmapX2023-tar.jpg?raw=true)
 
 For DepthmapX-runtime, was needed library Qt.
 
