@@ -1,5 +1,5 @@
 # URdata-DepthmapX
-Fast installation of DepthmapX in Classroom with 20 Linux Computers.
+Fast installation of DepthmapX(https://github.com/SpaceGroupUCL/depthmapX/blob/master/docs/about.md) in Classroom with 20 Linux Computers.
 
 cat /etc/os-release
 
