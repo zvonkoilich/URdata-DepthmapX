@@ -34,3 +34,8 @@ For DepthmapX-runtime, was needed library Qt.
 sudo apt-get install qtbase5-dev
 
 sudo tar --absolute-names -x -f installZI-p.tar
+
+How to add applications icon to taskbar?
+
+dconf write /org/gnome/shell/favorite-apps "['firefox_firefox.desktop', 'org.gnome.Nautilus.desktop', 'libreoffice-writer.desktop', 'snap-store_ubuntu-software.desktop', 'code_code.desktop', 'vlc_vlc.desktop', 'org.gnome.Terminal.desktop', 'depthmapX.desktop']"
+
