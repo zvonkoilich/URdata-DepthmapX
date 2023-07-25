@@ -4,6 +4,8 @@ Installation and configuration of computer equipment
 Class equipment consists of 20 PCs connected in LAN, protected with firewall. All network equipment and computers are under reserved IP address: 192.168.1.ххх.
 That provides easy recognition of users and their location in the classroom.
 
+![alt text](https://github.com/zvonkoilich/URdata-DepthmapX/blob/main/ISSE-2023.jpg?raw=true)
+
 Computers with IP addresses 192.168.1.31 - 192.168.1.35 are on the left hand side of the teachers position.
 Computers with IP addresses 192.168.1.61 - 192.168.1.64 are on the right hand side of the teachers position.
 Computers with IP addresses 192.168.1.41 - 192.168.1.45 are on the left middle side of the teachers position.
